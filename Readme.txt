@@ -1,6 +1,3 @@
-tusharnayan10@gmail.com
-
-
 touch filename.txt
 git init
 ls
@@ -18,5 +15,3 @@ git diff filename.txt
 To save change to previous file data 
 
 git checkout filename.txt
-
-// Adding file to git
